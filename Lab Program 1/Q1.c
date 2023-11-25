@@ -1,10 +1,10 @@
 #include<stdio.h>
 void main(){
-    int a[26],i,n,], temp;
+    int a[26],i,n,j, temp;
     printf("n : ");
     scanf("%d",&n);
     for(i=0;i<n;i++){
-        printf(*a[%d] = ",i);
+        printf("a[%d] = ",i);
         scanf("%d",&a[i]);
     }
 
@@ -15,7 +15,7 @@ void main(){
     }
     for(i=n-2;1>=0;i--){
         for(j=0;3<=i;j++){
-            if(a[j]>a[j+1]{
+            if(a[j]>a[j+1]){
 
                 temp=a[j];
 
